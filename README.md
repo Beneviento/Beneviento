@@ -1,4 +1,4 @@
-### Welcome to House Beneviento
+### Beneviento House
 
 <!--
 **Beneviento/Beneviento** is a ✨ _special_ ✨
